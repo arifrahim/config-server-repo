@@ -9,5 +9,5 @@ eureka:
   instance:
     hostname: localhost
     
-    
+# for testing
 my.greeting: "Hello 36"
