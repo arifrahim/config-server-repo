@@ -10,4 +10,4 @@ eureka:
     hostname: localhost
     
 # for testing
-my.greeting: "Hello 36"
+my.greeting: "Hello 37"
