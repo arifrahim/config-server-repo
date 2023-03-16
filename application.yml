@@ -1,10 +1,5 @@
 # Eureka server configs
-eureka:
-  client:
-    # By default, the registry also tries to register itself, so disable this behavior
-    register-with-eureka: true
-    fetch-registry: true
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-  instance:
-    hostname: localhost
+merchant-service:
+  server:
+    host: localhost
+    port: 8081
